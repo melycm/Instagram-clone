@@ -1,0 +1,37 @@
+body {
+    width: 100%;
+    background-image: url(images/wallp.jpg);
+    /* background-color: pink; */
+}
+.bigImage {
+    display: block;
+    width: 700px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+
+/* img {
+    display: block;
+    width: 200px;
+    height: 200px;
+} */
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 100px;
+    margin-left: 110px;
+    color: #d3538f;
+    text-shadow: 3px 3px black;
+    
+}
+
+footer {
+    background-color: white;
+}
+
+p {
+    font-family: 'Anton', sans-serif;
+    font-size: 20px;
+    color: black;
+    margin-left: 390px;
+}
